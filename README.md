@@ -85,3 +85,19 @@
     </a>
 </p>
 
+
+---
+
+
+### 🚀 My GitHub Stats
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelJrV&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJrV&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
