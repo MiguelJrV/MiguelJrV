@@ -91,13 +91,11 @@
 
 ### 🚀 My GitHub Stats
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelJrV&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelJrV&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
 
-<p align="center">
   <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJrV&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJrV&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</div>
 
