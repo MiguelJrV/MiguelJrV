@@ -96,6 +96,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelJrV&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
 
   <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJrV&layout=compact&theme=tokyonight" alt="Top Languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJrV&layout=compact&theme=tokyonight" alt="Top Languages" width="43%" />
 </div>
 
